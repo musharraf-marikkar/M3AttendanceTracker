@@ -11,3 +11,5 @@ Attendance Tracker application for Android developed using Java, SQLite.
 ## Usage
 - Admin Username : `admin`
 - Admin Password : `pass`
+
+## Screenshot can be found in screenshots folder
